@@ -1,14 +1,64 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "userName": "Mateo Mustapic",
+    "emails": [
+      "mateom@maindomain1.com",
+      "mm88@maindomain1.com",
+      "mateom1988@maindomain1.com",
+      "matmatmat@mainidomainit.co.uk",
+      "matt88.emailus.com"
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "userName": "Chuck Norris",
+    "emails": [
+      "chuckn1@maindomain1.com",
+      "chuckn2@emailmesteve.it.com",
+      "chuckn3@mainidomainit.co.uk",
+      "chuckn4@emailmesteve.com",
+      "chuckn5@emailmesteve.it.com",
+      "chuckn6@emailmesteve.it.com"
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "userName": "Bear Grylls",
+    "emails": [
+      "bear.grylls12332@maindomainico.com",
+      "bear.55grylls@maindomainico.com",
+      "bear.grylls12ss32@mainidomainit.it.uk"
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "userName": "Michael Scott",
+    "emails": [
+      "worldbestboss@dundermiff.com",
+      "michaeeelscott@dundermiff.com",
+      "michaelscott@dundermiff.com",
+      "prisonmike@dundermiff.com"
+    ]
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "userName": "Dwight Schrutte",
+    "emails": [
+      "dwightschrutte@dundermiff3.com",
+      "dwightschrutte@dundermiff.com",
+      "dwightschrutte@dundermiff1.com"
+    ]
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "userName": "Marty McFly",
+    "emails": ["martymcfly@bttf.com"]
   }
-}
+]
